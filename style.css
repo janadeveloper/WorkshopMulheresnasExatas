@@ -1,0 +1,59 @@
+#titulo{
+    width: 600px;
+    height: 300px;
+    justify-content: center;
+    /*padding: 20px;*/
+    margin: 0px auto;  
+    font-family: monospace;
+    font-size: 15;
+    color: orange;
+}
+#corpo2{
+    width: 600px;
+    height: 300px;
+    justify-content: center;
+     /*padding: 20px;*/
+    margin: 0px auto;   
+    font-family: monospace;
+    font-size: 15;
+    color: orange;   
+}
+#corpo1{
+    width: 600px;
+    height: 300px;
+    justify-content: center;
+     /*padding: 20px;*/
+    margin: 0px auto;  
+    font-family: monospace;
+    font-size: 15;
+    color: orange;    
+}
+.lasanha_titulo{
+    background-color: rgba(128, 128, 128, 0.068);
+    font-family: monospace;
+    font-size: 15;
+    color: orange;
+}
+
+.ingredientes{
+    background-color: rgba(128, 128, 128, 0.068);
+    color:black;
+    
+}
+
+.preparo{
+  background-color: rgba(128, 128, 128, 0.068);
+}
+.molho{
+  background-color:rgba(255, 166, 0, 0.37);
+  color:black;
+}
+.frango{
+    background-color: rgba(255, 166, 0, 0.219);
+    color:black;
+  }
+.montagem{
+    background-color: rgba(255, 166, 0, 0.37);
+    color:black;
+  }
+ 
